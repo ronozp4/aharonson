@@ -1,7 +1,7 @@
 import HTMLFlipBook from "react-pageflip";
 import React, { forwardRef } from "react";
 import "./App.css";
-import {images} from "./assets/images";
+import {Images} from "./assets/Imagesmages";
 
 const Page = forwardRef(({ children }, ref) => {
   return (
@@ -22,118 +22,118 @@ function App() {
 
       >
         <Page>
-          <img src={images[37]} alt="Cover" width="300" height="500" />
+          <img src={Images[37]} alt="Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[36]} alt="Page 2" width="300" height="500" />
+          <img src={Images[36]} alt="Page 2" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[35]} alt="Page 3" width="300" height="500" />
+          <img src={Images[35]} alt="Page 3" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[34]} alt="Page 4" width="300" height="500" />
+          <img src={Images[34]} alt="Page 4" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[33]} alt="Page 5" width="300" height="500" />
+          <img src={Images[33]} alt="Page 5" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[32]} alt="Back Cover" width="300" height="500" />
+          <img src={Images[32]} alt="Back Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[31]} alt="Page 7" width="300" height="500" />
+          <img src={Images[31]} alt="Page 7" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[30]} alt="Page 8" width="300" height="500" />
+          <img src={Images[30]} alt="Page 8" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[29]} alt="Page 9" width="300" height="500" />
+          <img src={Images[29]} alt="Page 9" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[28]} alt="Page 10" width="300" height="500" />
+          <img src={Images[28]} alt="Page 10" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[27]} alt="Cover" width="300" height="500" />
+          <img src={Images[27]} alt="Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[26]} alt="Page 2" width="300" height="500" />
+          <img src={Images[26]} alt="Page 2" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[25]} alt="Page 3" width="300" height="500" />
+          <img src={Images[25]} alt="Page 3" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[24]} alt="Page 4" width="300" height="500" />
+          <img src={Images[24]} alt="Page 4" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[23]} alt="Page 5" width="300" height="500" />
+          <img src={Images[23]} alt="Page 5" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[22]} alt="Back Cover" width="300" height="500" />
+          <img src={Images[22]} alt="Back Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[21]} alt="Page 7" width="300" height="500" />
+          <img src={Images[21]} alt="Page 7" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[20]} alt="Page 8" width="300" height="500" />
+          <img src={Images[20]} alt="Page 8" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[19]} alt="Page 9" width="300" height="500" />
+          <img src={Images[19]} alt="Page 9" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[18]} alt="Page 10" width="300" height="500" />
+          <img src={Images[18]} alt="Page 10" width="300" height="500" />
         </Page>
                 <Page>
-          <img src={images[17]} alt="Cover" width="300" height="500" />
+          <img src={Images[17]} alt="Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[16]} alt="Page 2" width="300" height="500" />
+          <img src={Images[16]} alt="Page 2" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[15]} alt="Page 3" width="300" height="500" />
+          <img src={Images[15]} alt="Page 3" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[14]} alt="Page 4" width="300" height="500" />
+          <img src={Images[14]} alt="Page 4" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[13]} alt="Page 5" width="300" height="500" />
+          <img src={Images[13]} alt="Page 5" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[12]} alt="Back Cover" width="300" height="500" />
+          <img src={Images[12]} alt="Back Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[11]} alt="Page 7" width="300" height="500" />
+          <img src={Images[11]} alt="Page 7" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[10]} alt="Page 8" width="300" height="500" />
+          <img src={Images[10]} alt="Page 8" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[9]} alt="Page 9" width="300" height="500" />
+          <img src={Images[9]} alt="Page 9" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[8]} alt="Page 10" width="300" height="500" />
+          <img src={Images[8]} alt="Page 10" width="300" height="500" />
         </Page>
                 <Page>
-          <img src={images[7]} alt="Cover" width="300" height="500" />
+          <img src={Images[7]} alt="Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[6]} alt="Page 2" width="300" height="500" />
+          <img src={Images[6]} alt="Page 2" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[5]} alt="Page 3" width="300" height="500" />
+          <img src={Images[5]} alt="Page 3" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[4]} alt="Page 4" width="300" height="500" />
+          <img src={Images[4]} alt="Page 4" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[3]} alt="Page 5" width="300" height="500" />
+          <img src={Images[3]} alt="Page 5" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[2]} alt="Back Cover" width="300" height="500" />
+          <img src={Images[2]} alt="Back Cover" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[1]} alt="Page 7" width="300" height="500" />
+          <img src={Images[1]} alt="Page 7" width="300" height="500" />
         </Page>
         <Page>
-          <img src={images[0]} alt="Page 8" width="300" height="500" />
+          <img src={Images[0]} alt="Page 8" width="300" height="500" />
         </Page>
       </HTMLFlipBook>
     </div>
