@@ -1,4 +1,4 @@
-import page1 from "./pages/2.png";
+import page1 from "./pages/1.png";
 import page2 from "./pages/2.png";
 import page3 from "./pages/3.png";
 import page4 from "./pages/4.png";
@@ -40,4 +40,4 @@ import page38 from "./pages/38.png";
 
 
 
- export const images = [page1, page2, page3, page4, page5, page6, page7, page8, page9, page10, page11, page12, page13, page14, page15, page16, page17, page18, page19, page20, page21, page22, page23, page24, page25, page26, page27, page28, page29, page30, page31, page32, page33, page34, page35, page36, page37, page38];
+ export const Images = [page1, page2, page3, page4, page5, page6, page7, page8, page9, page10, page11, page12, page13, page14, page15, page16, page17, page18, page19, page20, page21, page22, page23, page24, page25, page26, page27, page28, page29, page30, page31, page32, page33, page34, page35, page36, page37, page38];
