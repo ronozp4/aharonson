@@ -1,7 +1,7 @@
 import HTMLFlipBook from "react-pageflip";
 import React, { forwardRef } from "react";
 import "./App.css";
-import {Images} from "./assets/Imagesmages";
+import {Images} from "./assets/Images";
 
 const Page = forwardRef(({ children }, ref) => {
   return (
